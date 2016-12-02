@@ -7,9 +7,4 @@
 2. 配置JobDetail
 3. 配置触发器（Trigger）
 4. 配置SchedulerFactoryBean
-
-
-####插入链接
-[baidu](http://baidu.com)
-####插入图片
 ![Mou icon](http://pic.58pic.com/58pic/15/28/09/04w58PICJDu_1024.jpg)
